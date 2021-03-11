@@ -1,0 +1,1 @@
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/d82c19b93cb8453f855c19045e53067a)](https://www.codacy.com/gh/ivanjtm/Hackathon-Microsoft/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ivanjtm/Hackathon-Microsoft&amp;utm_campaign=Badge_Grade)
